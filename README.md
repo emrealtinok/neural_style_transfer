@@ -10,7 +10,7 @@ After playing around with it for a while, I felt like stepping things up a bit. 
 
 Out of the three approaches, in my opinion visually the third one worked best. As Gram matrices capture the correlation between the channel activations, they almost represent the style of the image mathematically, and thus averaging the correleations helped the model apply both styles in a balanced way.
 
-Here are three example images generated with using this approach:
+Here are three example images generated with this approach:
 
 [generated_image_1](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_1.png): Monet and Picasso styles applied on a Dali  
 [generated_image_2](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_2.png): Matisse and Van Gogh styles applied on another Dali  
