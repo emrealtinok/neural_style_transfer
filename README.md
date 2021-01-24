@@ -12,6 +12,6 @@ Out of the three approaches, in my opinion visually the third one worked best. A
 
 Here are three example images generated with this approach:
 
-[generated_image_1](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_1.png): Monet and Picasso styles applied on a Dali  
+[generated_image_1](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_1.png): Monet and Picasso styles applied on a Dali (for some reason the algorithm decided to put a Jigsaw spiral on the woman's cheek!)
 [generated_image_2](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_2.png): Matisse and Van Gogh styles applied on another Dali  
 [generated_image_3](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_3.png): Picasso and Van Gogh styles appplied on another Dali  
