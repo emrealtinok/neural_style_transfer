@@ -16,4 +16,4 @@ Here are three example images generated with this approach:
 [generated_image_2](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_2.png): Matisse and Van Gogh styles applied on another Dali  
 [generated_image_3](https://github.com/emrealtinok/neural_style_transfer/blob/main/generated_image_3.png): Picasso and Van Gogh styles appplied on another Dali  
 
-Next up, I plan to extract Gram matrices from one painter's all available work, calculate the averages for each layer and have a full mathematical representation of the artist's style. Then I will apply the style to other images.
+Next up, I plan to extract Gram matrices from one painter's all available paintings, calculate the averages for each layer and have a full mathematical representation of the artist's style. Then I will apply the style to other images.
